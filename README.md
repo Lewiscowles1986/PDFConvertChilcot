@@ -1,5 +1,5 @@
 # PDFConvertChilcot
-Sort of a how-to on converting PDF files to HTML
+Sort of a how-to on converting PDF files to HTML. The original PDF files can be found at http://www.iraqinquiry.org.uk
 
 ## Preparatory steps
 
